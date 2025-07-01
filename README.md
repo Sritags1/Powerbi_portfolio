@@ -51,8 +51,8 @@ To analyze and monitor coffee shop sales performance, product-wise sales contrib
 * **% Growth vs Last Month**
 * **Average Daily Sales**
   
-Dashboard Report LINK: https://app.powerbi.com/view?r=eyJrIjoiYzU5M2M3YjAtMDNkNy00MjBlLTg0YzctZmVhNmVhZTVjZWU4IiwidCI6IjhhMzhkNWM5LWZmMmYtNDc5ZS04NjM3LWQ3M2Y2MjQxYTRmMCIsImMiOjEwfQ%3D%3D
 ---
+
 Dasboard Link : https://app.powerbi.com/view?r=eyJrIjoiNTBhYWE4NDgtNmFlNC00MzNlLWE4YzEtNDVlNDc0NjA0YWUwIiwidCI6IjhhMzhkNWM5LWZmMmYtNDc5ZS04NjM3LWQ3M2Y2MjQxYTRmMCIsImMiOjEwfQ%3D%3D
 
 DASHBOARD IMAGES:![COFFEE SHOP DASHBOARD](https://github.com/user-attachments/assets/2b65293b-2cf1-4ce8-87be-a26598c65d17)
